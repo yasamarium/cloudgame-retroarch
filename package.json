@@ -1,0 +1,10 @@
+{
+  "name": "cloudgame-retroarch",
+  "version": "1.0.0",
+  "description": "Cloud game runner for RetroArch Core",
+  "main": "register_tunnel.js",
+  "scripts": {
+    "start": "node register_tunnel.js"
+  },
+  "dependencies": {}
+}
